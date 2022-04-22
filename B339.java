@@ -1,7 +1,5 @@
 
-package Practice;
-
-
+package solution1000;
 
 import java.util.Scanner;
 
